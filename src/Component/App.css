@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+*{
+  padding: 0px;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.ff-pp{font-family: "Poppins", sans-serif;}
+.ff-bn{font-family: "Bebas Neue", sans-serif;}
+
+
+.clr-org{color: #ed641c;}
+.clr-blu{color: #0b3e92;}
+.clr-3c{color: #3c3c3c;}
+.clr-84{color: #848484;}
+
+
+.bg-org{ background-color: #ed641c;}
+.bg-blu{ background-color: #0b3e92;}
+.bg-3c{ background-color: #3c3c3c;}
+.bg-84{ background-color: #848484;}
+
+.fw-1{font-weight: 100;}
+.fw-2{font-weight: 200;}
+.fw-3{font-weight: 300;}
+.fw-4{font-weight: 400;}
+.fw-5{font-weight: 500;}
+.fw-6{font-weight: 600;}
+.fw-7{font-weight: 700;}
+.fw-8{font-weight: 800;}
+.fw-9{font-weight: 900;}
+
+
+body {
+  background: #ffffff;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+  display: block !important;
+}
+
+.ui-container{
+  max-width: 1750px;
+  padding-left: 15px;
+  padding-right: 15px;
+  width: 100%;
+}
+
+
+
+
+

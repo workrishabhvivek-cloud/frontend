@@ -1,0 +1,52 @@
+
+
+.hero-brand-container{
+    position: absolute;
+    width: 100%;
+    transform: translateY(-50%);
+    z-index: 5;
+    background-color: transparent;
+}
+
+.hero-brand-container .hero-brand-wrapper{
+    background-color: transparent;
+    max-width: 1180px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-inline: auto;
+}
+
+
+.hero-brand-container .hero-brand-wrapper .slick-list .slick-track>*{
+    background-color: transparent !important;
+}
+
+
+.hero-brand-container .hero-brand-wrapper .slick-slider .slick-list .slick-track .slick-slide>div{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.hero-brand-container .brand-item{
+    padding: 10px;
+    background-color: #fff;
+    box-shadow: 0px 0px 8px 2px #0000001a;
+    margin-bottom: 10px;
+    max-width: 270px;
+}
+
+.slick-dots li{
+    margin: 0;
+}
+
+
+.slick-dots li.slick-active button:before {
+    opacity: 1;
+    color: #ffa400;
+}
